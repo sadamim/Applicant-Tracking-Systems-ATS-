@@ -1,0 +1,27 @@
+Requirements:
+  --Programming Language
+Python (Recommended: 3.8 or above)
+  --Required Libraries & Dependencies
+Ensure these libraries are installed:
+Streamlit → For building the web application
+Pandas → For handling and processing the DataFrame
+Plotly → For creating interactive visualizations
+Random Forest → For the classification
+  --Development Tools
+Python Environment (Optional but Recommended)
+Virtual Environment (venv)
+  --Code Editor / IDE
+VS Code
+  --Version Control
+Git (For pushing code to GitHub)
+  --Running the Streamlit App Locally
+  --Deployment 
+To deploy your app:
+Streamlit Cloud
+
+
+
+
+
+
+
